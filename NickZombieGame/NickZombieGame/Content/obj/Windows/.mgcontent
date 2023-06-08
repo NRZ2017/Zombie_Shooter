@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/VisitorDL8/Documents/GitHub/ZombieShooter/NickZombieGame/NickZombieGame/Content/Aim.png</File>
+    <File>C:/Users/VisitorDL8/Documents/GitHub/ZombieShooter/NickZombieGame/NickZombieGame/Content/Background.jpg</File>
+    <File>C:/Users/VisitorDL8/Documents/GitHub/ZombieShooter/NickZombieGame/NickZombieGame/Content/zombie.png</File>
+    <File>C:/Users/VisitorDL8/Documents/GitHub/ZombieShooter/NickZombieGame/NickZombieGame/Content/BulletMegaE433.png</File>
+    <File>C:/Users/VisitorDL8/Documents/GitHub/ZombieShooter/NickZombieGame/NickZombieGame/Content/pistol.png</File>
+    <File>C:/Users/VisitorDL8/Documents/GitHub/ZombieShooter/NickZombieGame/NickZombieGame/Content/Font.spritefont</File>
+    <File>C:/Users/VisitorDL8/Documents/GitHub/ZombieShooter/NickZombieGame/NickZombieGame/Content/McHeart.png</File>
+  </SourceFiles>
+</SourceFileCollection>
